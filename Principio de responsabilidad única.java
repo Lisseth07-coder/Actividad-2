@@ -24,7 +24,9 @@ _comida = comida
         
   //Enviarla
   {
-public void Send 
+public void Send()
+
+   Console.WriteLine($¨Enviamos {_comida.Name} y {_comida.Brand}¨);
 
     
     
